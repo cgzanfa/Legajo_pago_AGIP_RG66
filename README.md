@@ -21,5 +21,6 @@
 
 ## Notas Adicionales
 
-- Asegurarse de que todos los datos estén correctamente validados antes de armar el cuadro final.
-- Verificar que las retenciones estén correctamente calculadas según la normativa vigente.
+- La automatizacion del proceso evita errores involuntarios al momento de manipular la informacion.
+
+
