@@ -23,4 +23,4 @@
 
 - La automatizacion del proceso evita errores involuntarios al momento de manipular la informacion.
 
-
+![](https://github.com/cgzanfa/Legajo_pago_AGIP_RG66/blob/main/Capturarg66.PNG)
